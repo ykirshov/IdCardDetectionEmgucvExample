@@ -124,4 +124,10 @@
   <data name="idcard_ukraine_backside" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\idcard_ukraine_backside.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="t3qWG" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\t3qWG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TestInn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TestInn.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

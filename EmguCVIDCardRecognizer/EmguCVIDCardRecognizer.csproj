@@ -120,6 +120,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="License-LGPL.txt" />
+    <None Include="Resources\TestInn.jpg" />
+    <None Include="Resources\t3qWG.png" />
     <None Include="Resources\idcard_ukraine_backside.jpg" />
     <None Include="Resources\idcard_ukraine.jpg" />
   </ItemGroup>
